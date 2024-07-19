@@ -88,9 +88,3 @@ To set up the project on your local machine, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
