@@ -76,15 +76,4 @@ Inefficient marketing campaigns result in higher costs and lower customer acquis
     jupyter notebook
     ```
 5. Open and run the `capstone 3_1.01.ipynb` notebook to see the project details and results.
-
-## Installation
-To set up the project on your local machine, follow these steps:
-1. Ensure you have Python installed.
-2. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
     ```
